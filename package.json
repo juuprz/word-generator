@@ -1,0 +1,24 @@
+{
+  "name": "word-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juuprz/word-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juuprz/word-generator/issues"
+  },
+  "homepage": "https://github.com/juuprz/word-generator#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
